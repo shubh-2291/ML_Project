@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Data%20Science/ML-Project/mlruns/0/63f1fcbdd74e41e68d9869932c4a8504/artifacts
+end_time: 1738053721895
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 63f1fcbdd74e41e68d9869932c4a8504
+run_name: valuable-ray-395
+run_uuid: 63f1fcbdd74e41e68d9869932c4a8504
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738053705109
+status: 3
+tags: []
+user_id: shubh
